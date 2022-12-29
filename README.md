@@ -1,2 +1,2 @@
-# Currículo Vitae Básico mas com uma pitade de humor
- Este é somente um exercio de um curso básico de htm e css para a web mas com uma pitada de humor na época de copa
+# Currículo Vitae Básico mas com uma pitada de humor
+ Este é somente um exercício de um curso básico de html5 e css para a web mas com uma pitada de humor nessa época de copa!
